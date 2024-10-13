@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## 🌱 I’m currently learning some more coing skills through Harvard's CS50X
+
 <!--
 **DashCat1243/DashCat1243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

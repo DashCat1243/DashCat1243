@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello person ^_^
+
+## Pineapple exist :)
+
+<!--## Hi there 👋
 
 ## 🌱 I’m currently learning some more coing skills through Harvard's CS50X
 
